@@ -2,7 +2,7 @@
 
 This directory contains a labware definition file for M-1000-9SC tip rack for use with the OT-2 robot:
 
-- biotix_96_tiprack_300ul.json
+- biotix_96_tiprack_1000ul.json
 
 **Do not execute a protocol using these labware definitions without running the labware position check.**
 This check will allow you to customize the pipette offsets manually for your protocol using the OT-2's pipette jog controls.
@@ -19,7 +19,7 @@ As such, these labware files are not perfect. Folks should absolutely feel free 
 
 Light tested using the opentrons test script (output from the custom labware creator):
 
-- biotix_96_tiprack_1000ul_left.json (with left pipette)
+- biotix_96_tiprack_1000ul.json (with right pipette, single channel p1000)
 
 Stress tested
 
