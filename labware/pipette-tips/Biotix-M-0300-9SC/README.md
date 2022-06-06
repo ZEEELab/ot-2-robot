@@ -20,8 +20,8 @@ As such, these labware files are not perfect. Folks should absolutely feel free 
 
 Light tested using the opentrons test script (output from the custom labware creator):
 
-- biotix_96_tiprack_10ul_left.json (with left pipette)
-- biotix_96_tiprack_10ul_right.json (with right pipette)
+- biotix_96_tiprack_300ul_left.json (with left pipette)
+- biotix_96_tiprack_300ul_right.json (with right pipette)
 
 Stress tested
 
